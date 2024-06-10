@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17f6b941-1ef7-46a5-8eab-b59978ec9a82" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/contributor/.gradle/6.7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contributor/.gradle/6.7.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contributor/.gradle/6.7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contributor/.gradle/6.7.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contributor/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contributor/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contributor/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contributor/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contributor/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contributor/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contributor/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/DbConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin/DbConfig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin/admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/forms/newContributor.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/forms/newContributor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/forms/newOrg.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/forms/newOrg.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/admin/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/views/allContributors.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/allContributors.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/views/allOrgs.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/allOrgs.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/views/deletedContributor.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/deletedContributor.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/views/deletedFund.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/deletedFund.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/views/deletedOrg.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/deletedOrg.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/views/editContributor.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/editContributor.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/views/editFund.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/editFund.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/views/editOrg.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/editOrg.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/views/error.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/error.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/views/newFund.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/newFund.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/views/viewContributor.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/viewContributor.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/views/viewFund.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/viewFund.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/views/viewOrg.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/admin/views/viewOrg.ejs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/contributor">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2hTkH76LQGOQcQSu8FVqkjTEghA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;android.gradle.sync.needed&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17f6b941-1ef7-46a5-8eab-b59978ec9a82" name="Changes" comment="" />
+      <created>1717625364946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717625364946</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
